@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy Gonzalo Bernal
 
-🎯 **Desarrollador en constante aprendizaje**
-💻 **Apasionado por la programación y la tecnología**  
+🎯 **Desarrollador en constante aprendizaje** | 💻 **Apasionado por la programación y la tecnología**  
 🌐 **Compartiendo proyectos, ideas y soluciones**  
 📍 Murcia, España
 
