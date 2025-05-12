@@ -12,7 +12,7 @@ Soy un desarrollador motivado que disfruta creando soluciones prácticas con có
 
 - 🌱 Actualmente aprendiendo: **Java, JavaScript y Python**
 - 🔭 Trabajando en proyectos de desarrollo web y automatización
-- 💬 Me interesa: **JavaScript, Python, DevOps, IA, GitHub Actions**
+- 💬 Me interesa: **JavaScript, Python, Shell, PHP, GitHub Actions y Ciberseguridad**
 - 🧠 Siempre dispuesto a aprender algo nuevo
 - 📫 Cómo contactarme: [grxcoding@gmail.com](mailto:grxcoding@gnmail.com)
 
