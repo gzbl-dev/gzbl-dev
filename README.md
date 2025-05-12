@@ -41,8 +41,8 @@ Soy un desarrollador motivado que disfruta creando soluciones prácticas con có
 
 Aquí algunos de los proyectos en los que he trabajado recientemente:
 
-- 🔧 **([Programación](https://github.com/GRXcoding/Programacion))** – Repositorio de mis tareas de programación.
-- 📕 **([HTML](https://github.com/GRXcoding/HTML))** – Repositorio de mis tareas de HTML y CSS.
+- 🔧 **[Programación](https://github.com/GRXcoding/Programacion)** – Repositorio de mis tareas de programación.
+- 📕 **[HTML](https://github.com/GRXcoding/HTML)** – Repositorio de mis tareas de HTML y CSS.
 
 ---
 
