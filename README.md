@@ -52,5 +52,5 @@ Aquí algunos de los proyectos en los que he trabajado recientemente:
 
 ---
 
-¡Gracias por visitar mi perfil! 😊
+
 
