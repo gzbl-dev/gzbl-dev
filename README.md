@@ -1,5 +1,14 @@
 # 👋 ¡Hola! Soy Gonzalo Bernal
 
+<pre>
+                                                    __    __                __         
+                                             ____ _╱ ╱_  ╱ ╱           ____╱ ╱__ _   __
+                                            ╱ __ `╱ __ ╲╱ ╱  ______   ╱ __  ╱ _ ╲ │ ╱ ╱ 
+                                           ╱ ╱_╱ ╱ ╱_╱ ╱ ╱  ╱_____╱  ╱ ╱_╱ ╱  __╱ │╱ ╱  
+                                           ╲__, ╱_.___╱_╱            ╲__,_╱╲___╱│___╱                                     
+                                          ╱____╱                                     
+</pre>
+
 🎯 **Desarrollador en constante aprendizaje** | 💻 **Apasionado por la programación y la tecnología**  
 🌐 **Compartiendo proyectos, ideas y soluciones**  
 📍 Murcia, España
