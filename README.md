@@ -14,19 +14,22 @@ Soy un desarrollador motivado que disfruta creando soluciones prácticas con có
 - 🔭 Trabajando en proyectos de desarrollo web y automatización
 - 💬 Me interesa: **JavaScript, Python, Shell, PHP, GitHub Actions y Ciberseguridad**
 - 🧠 Siempre dispuesto a aprender algo nuevo
-- 📫 Cómo contactarme: [grxcoding@gmail.com](mailto:grxcoding@gnmail.com)
+- 📫 Cómo contactarme: [gzlbernal@gmail.com](mailto:gzlbernal@gnmail.com)
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -42,7 +45,6 @@ Soy un desarrollador motivado que disfruta creando soluciones prácticas con có
 Aquí algunos de los proyectos en los que he trabajado recientemente:
 
 - 🔧 **[Programación](https://github.com/GRXcoding/Programacion)** – Repositorio de mis tareas de programación.
-- 📕 **[HTML](https://github.com/GRXcoding/HTML)** – Repositorio de mis tareas de HTML y CSS.
 
 ---
 
