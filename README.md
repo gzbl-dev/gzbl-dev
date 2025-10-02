@@ -49,7 +49,6 @@ Soy un desarrollador motivado que disfruta creando soluciones prácticas con có
 
 ## 📊 GitHub Stats
 
-![GRXcoding's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GRXcoding&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GRXcoding&layout=compact&theme=tokyonight)
 
 ---
