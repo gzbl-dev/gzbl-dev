@@ -13,11 +13,6 @@
                                          ╲__, ╱_.___╱_╱            ╲__,_╱╲___╱│___╱                                     
                                         ╱____╱                                     
 </pre>
-
-🎯 **Desarrollador en constante aprendizaje** | 💻 **Apasionado por la programación y la tecnología**  
-🌐 **Compartiendo proyectos, ideas y soluciones**  
-📍 Murcia, España
-
 ---
 
 ## 🚀 Sobre mí
@@ -50,14 +45,6 @@ Soy un desarrollador motivado que disfruta creando soluciones prácticas con có
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GRXcoding&layout=compact&theme=tokyonight)
-
----
-
-## 🧩 Proyectos destacados
-
-Aquí algunos de los proyectos en los que he trabajado recientemente:
-
-- 🔧 **[Programación](https://github.com/GRXcoding/Programacion)** – Repositorio de mis tareas de programación.
 
 ---
 
