@@ -51,7 +51,7 @@ Soy un desarrollador motivado que disfruta creando soluciones prácticas con có
 ## 🌐 Encuéntrame también en
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/gonzalobernallopez)
-[![Twitter]()
+[![Twitter](https://img.shields.io/badge/-Twitter-0077B5?logo=linkedin&logoColor=white&style=flat)]()
 
 ---
 
