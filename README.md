@@ -6,12 +6,12 @@
 </div>
 
 <pre>
-                                                  __    __                __         
-                                           ____ _╱ ╱_  ╱ ╱           ____╱ ╱__ _   __
-                                          ╱ __ `╱ __ ╲╱ ╱  ______   ╱ __  ╱ _ ╲ │ ╱ ╱ 
-                                         ╱ ╱_╱ ╱ ╱_╱ ╱ ╱  ╱_____╱  ╱ ╱_╱ ╱  __╱ │╱ ╱  
-                                         ╲__, ╱_.___╱_╱            ╲__,_╱╲___╱│___╱                                     
-                                        ╱____╱                                     
+                                                        __    __                __         
+                                           ____ _____  ╱ ╱_  ╱ ╱           ____╱ ╱__ _   __
+                                          ╱ __ `╱_  ╱ ╱ __ ╲╱ ╱  ______   ╱ __  ╱ _ ╲ │ ╱ ╱
+                                         ╱ ╱_╱ ╱ ╱ ╱_╱ ╱_╱ ╱ ╱  ╱_____╱  ╱ ╱_╱ ╱  __╱ │╱ ╱ 
+                                         ╲__, ╱ ╱___╱_.___╱_╱            ╲__,_╱╲___╱│___╱  
+                                        ╱____╱                                                                              
 </pre>
 ---
 
@@ -44,14 +44,14 @@ Soy un desarrollador motivado que disfruta creando soluciones prácticas con có
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GRXcoding&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzbl-dev&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Encuéntrame también en
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/gonzalobernallopez)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://x.com/grxcoding)
+[![Twitter]()
 
 ---
 
