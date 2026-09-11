@@ -1,68 +1,45 @@
-<div id="greetings" align="center">
-<h1>
-  Hola mundo, soy Gonzalo!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
+<img src="./assets/banner.svg" width="100%" alt="Gonzalo Bernal López · Desarrollador full-stack en Murcia. En producción: cardifly.es, elopeak.lol y grx.coach">
 
-<pre>
-                                                        __    __                __         
-                                           ____ _____  ╱ ╱_  ╱ ╱           ____╱ ╱__ _   __
-                                          ╱ __ `╱_  ╱ ╱ __ ╲╱ ╱  ______   ╱ __  ╱ _ ╲ │ ╱ ╱
-                                         ╱ ╱_╱ ╱ ╱ ╱_╱ ╱_╱ ╱ ╱  ╱_____╱  ╱ ╱_╱ ╱  __╱ │╱ ╱ 
-                                         ╲__, ╱ ╱___╱_.___╱_╱            ╲__,_╱╲___╱│___╱  
-                                        ╱____╱                                                                              
-</pre>
----
+Construyo producto de principio a fin. Vengo del backend enterprise en NTT Data y, en paralelo, lanzo productos propios que están en producción, con dominio y clientes reales.
 
-## 🚀 Sobre mí
+Antes de programar competí tres años como jugador profesional en UCAM Esports, donde fui tricampeón de España.
 
-De las competiciones de alto rendimiento a la ingeniería de software. Soy un desarrollador especializado en el ecosistema Java con experiencia en migraciones de sistemas para el sector industrial. Mi etapa en los esports profesionales me enseñó el valor de la disciplina, la adaptabilidad y el trabajo en equipo bajo presión, cualidades que ahora aplico para crear código limpio y escalable.
+[gzlbernal@gmail.com](mailto:gzlbernal@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gonzalobernallopez/) · Disponible para incorporación inmediata
 
-- 💼 Recientemente participé en **NTT Data** migrando aplicaciones core al cloud y consumiendo servicios CTI con Java.
-- 💻 Mi foco técnico actual es el desarrollo **Backend con Java 21 y Spring Boot 3**, integrando clientes con **React y TypeScript**.
-- 🎮 **Jugador profesional becado**, acostumbrado a las dinámicas orientadas a objetivos.
-- 📫 Contáctame en: [gzlbernal@gmail.com](mailto:gzlbernal@gmail.com) o conecta conmigo en [LinkedIn](https://linkedin.com/in/gonzalobernallopez).
+## En producción
 
----
+| Proyecto | Qué es | Stack |
+| --- | --- | --- |
+| [**Cardifly**](https://cardifly.es) | Tarjetas de visita NFC con su web comercial. La URL grabada en el chip no se puede cambiar nunca, así que una capa de redirección propia resuelve cada tarjeta a su destino real. | React&nbsp;19 · Vite · TypeScript · Three.js · PHP |
+| [**Elopeak**](https://elopeak.lol) | Plataforma bilingüe de coaching: landing, fichas de coaches y reservas, con hreflang, JSON-LD y export estático para hosting compartido. | Next.js&nbsp;16 · React&nbsp;19 · TypeScript · Tailwind&nbsp;4 |
+| [**GRX&nbsp;Coaching**](https://grx.coach) | Landing de marca personal sin framework y sin una sola dependencia, con i18n propio. [Ver código](https://github.com/gzbl-dev/GRXCoaching). | HTML · CSS · JavaScript |
+| [**Demos&nbsp;Cardifly**](https://gzbl-dev.github.io/barberia-isidro-vela/) | Webs de demostración para negocios locales: carta, horarios, mapa, reserva y datos estructurados. | HTML · CSS · JavaScript |
 
-## 🛠️ Stack Tecnológico
+Cardifly y Elopeak son marcas conjuntas y su código es privado. Detrás de Elopeak también está Coach OS, la herramienta interna con la que gestionamos a los alumnos: Next.js, Supabase con RLS y sincronización con la Riot API.
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## Código abierto
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+**[GameDeck](https://github.com/gzbl-dev/GameDeck-TFG)** · Trabajo de Fin de Ciclo junto a [@vicenttto](https://github.com/vicenttto)<br>
+API REST en Java 21 y Spring Boot 3.3 con Spring Security y JWT, JPA y MySQL versionado con Flyway, más una SPA en React y TypeScript que consume la API de RAWG.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+**[Qimob Café](https://github.com/gzbl-dev/prueba-tecnica-qimob)** · Prueba técnica<br>
+Tablero de pedidos e inventario en Svelte 5 con runes sobre SvelteKit. El bloqueo por falta de stock sale de un store derivado, sin casos especiales.
 
----
+**[OPGRX Scouting](https://github.com/gzbl-dev/OPGRX-Scouting)** · Extensión de navegador<br>
+Extensión Manifest V3 que extrae datos recorriendo el DOM dinámico de una web de estadísticas sin API pública.
 
-## 🏆 Proyecto Destacado
+## Experiencia
 
-### [GameDeck](https://github.com/gzbl-dev/GameDeck-TFG)
-Plataforma web para la gestión de videojuegos estructurada como una Single Page Application (SPA).
-- **Arquitectura Backend:** API REST desarrollada desde cero utilizando **Java 21**, **Spring Boot 3** y base de datos MySQL.
-- **Cliente Frontend:** Interfaz de usuario dinámica desarrollada con **React** y fuertemente tipada con **TypeScript**.
-- **Integraciones:** Consumo de la API externa de **RAWG** para la obtención y renderizado de datos en tiempo real.
+**NTT Data** · Desarrollador backend · Mar 2026 - Jun 2026<br>
+Proyecto AENA. Adaptación a Genesys Cloud de la telefonía de GSR, el sistema de gestión de situaciones de riesgo que comunica los aeropuertos entre sí. Diseñé el apartado de llamadas entre centralitas e integré los servicios CTI de Genesys: autenticación, sesión y control de llamadas. Java, Struts2 y JSP.
 
----
+## Formación
 
-## 🗒️ Curriculum Web
+**CFGS Desarrollo de Aplicaciones Web** · UCAM · 2024 - 2026
 
-### [CV Gonzalo Bernal](https://gzbl-dev.github.io/cv-gonzalo-bernal/)
-Web personal para mostrar mi experiencia profesional, proyectos y skills.
+## Stack
 
----
-
-## ⚡ En resumen...
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED8B00&width=435&lines=De+los+Esports+al+Desarrollo;Alto+rendimiento+bajo+presion;Disciplina+y+Trabajo+en+equipo;Desarrollador+de+Software;Resolucion+de+problemas)](https://git.io/typing-svg)
-
+**Backend** · Java 21, Spring Boot 3, Spring Security, JPA, Struts2, PHP<br>
+**Frontend** · TypeScript, React 19, Next.js 16, Svelte 5, Tailwind CSS 4, Three.js<br>
+**Datos** · MySQL, PostgreSQL con Supabase, PL/SQL, Flyway<br>
+**Herramientas** · Git, Docker, Vercel, Bash
