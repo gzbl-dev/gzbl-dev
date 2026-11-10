@@ -6,6 +6,11 @@ Antes de programar competí tres años como jugador profesional en UCAM Esports,
 
 [gzlbernal@gmail.com](mailto:gzlbernal@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gonzalobernallopez/) · Disponible para incorporación inmediata
 
+## En desarrollo
+
+**[Universidad Santo Ángel](https://github.com/gzbl-dev/santo-angel-campus)** · Portal universitario con Drupal, Vue e IA<br>
+Portal de una universidad ficticia sobre Drupal 11: módulo propio con tres tipos de contenido, bloques y comandos Drush; tema a medida en Twig y Sass; y un buscador de titulaciones en Vue 3 y TypeScript que consume JSON:API, con tests en Vitest. Todo el entorno va en Docker y un CI de GitHub Actions instala Drupal y prueba el sitio en cada push. La siguiente fase es un asistente de IA con RAG y tool use sobre el contenido del portal. [Ver la demo en vídeo](https://github.com/gzbl-dev/santo-angel-campus#readme).
+
 ## En producción
 
 | Proyecto | Qué es | Stack |
@@ -35,11 +40,12 @@ Proyecto AENA. Adaptación a Genesys Cloud de la telefonía de GSR, el sistema d
 
 ## Formación
 
-**CFGS Desarrollo de Aplicaciones Web** · UCAM · 2024 - 2026
+**CFGS Desarrollo de Aplicaciones Web** · UCAM · 2024 - 2026 · Nota media 9,06
 
 ## Stack
 
-**Backend** · Java 21, Spring Boot 3, Spring Security, JPA, Struts2, PHP<br>
-**Frontend** · TypeScript, React 19, Next.js 16, Svelte 5, Tailwind CSS 4, Three.js<br>
-**Datos** · MySQL, PostgreSQL con Supabase, PL/SQL, Flyway<br>
-**Herramientas** · Git, Docker, Vercel, Bash
+**Backend** · Java 21, Spring Boot 3, Spring Security, JPA, Struts2, PHP, Drupal 11<br>
+**Frontend** · TypeScript, React 19, Vue 3, Next.js 16, Svelte 5, Twig, Sass, Tailwind CSS 4, Three.js<br>
+**Datos** · MySQL, MariaDB, PostgreSQL con Supabase, PL/SQL, Flyway<br>
+**Herramientas** · Git, Docker, GitHub Actions, Vercel, Bash<br>
+**IA** · Desarrollo asistido con Claude Code; RAG y tool use en curso
